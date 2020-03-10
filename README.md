@@ -1,7 +1,7 @@
 # Mobile-Development-Portfolio
 A collection of some React Native projects, Swift/iOS projects, achievements, and certifications.
 
-.
+:small_red_triangle_down:
 
 
 ## React-Native Projects
@@ -21,7 +21,7 @@ A react-native app for posting time-sensitive community events like pop-up shops
 
 --------------------------
 
-.
+:small_red_triangle_down:
 
 ## iOS Projects
 
@@ -52,7 +52,7 @@ An app that activates a cricket noise immediately upon opening for awkward silen
 
 ---------------
 
-.
+:small_red_triangle_down:
 
 ## Certificates
 
